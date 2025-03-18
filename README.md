@@ -2,7 +2,11 @@
 
 A simple and interactive web-based budget tracker that helps users efficiently manage their income and expenses. The application dynamically calculates total income, expenses, remaining budget, and budget percentage insights in real time.
 
-### **Accessible through [Netlify](https://calculator-rainer2308.netlify.app/)**
+## **Accessible through [Netlify](https://calculator-rainer2308.netlify.app/)**
+Inital Deploy: Manual deploy on Netlify [19 August 2022]
+
+Current Deploy: Linked to this Repository for live updates
+
 Live deploy: https://calculator-rainer2308.netlify.app/
 
 ## **Built Using:**
