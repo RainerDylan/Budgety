@@ -23,7 +23,7 @@ Live deploy: https://calculator-rainer2308.netlify.app/
 ## **Installation**
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/budget-tracker.git
+git clone https://github.com/RainerDylan/Budgety.git
 ```
 2. Navigate to the project folder:
 ```bash
