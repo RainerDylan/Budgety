@@ -326,8 +326,8 @@ var UIController = (function() {
             year = now.getFullYear();
             document.querySelector(DOMstrings.dateLabel).textContent = months[month] + ' ' + year;
 
-            watch = now.getHours() + ':' + now.getMinutes() + ':' + (now.getSeconds() + 6) + ':' + now.getMilliseconds();
-            document.querySelector(DOMstrings.currenttime).textContent = watch;
+            // watch = now.getHours() + ':' + now.getMinutes() + ':' + (now.getSeconds() + 6) + ':' + now.getMilliseconds();
+            // document.querySelector(DOMstrings.currenttime).textContent = watch;
             
             
         },
